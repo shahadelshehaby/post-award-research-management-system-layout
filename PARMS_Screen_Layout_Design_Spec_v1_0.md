@@ -3,11 +3,11 @@
 
 ---
 
-> **Document Status:** Draft — For Review
-> **Version:** 1.0
-> **Date:** June 2026
-> **Prepared by:** Research Affairs
-> **Audience:** IT Department
+> **Document Status:** Draft — For Review  
+> **Version:** 1.0  
+> **Date:** June 2026  
+> **Prepared by:** Research Affairs  
+> **Audience:** IT Dept  
 > **Classification:** Confidential — Internal Use Only
 > **Reference PRD:** PARMS PRD v2.0
 
